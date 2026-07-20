@@ -8,6 +8,7 @@ Aplicação web simples em TypeScript e React para estudo prático de QA.
 cd qa-demo
 npm install
 npm run dev
+
 ```
 
 Acesse `http://localhost:4173`.
